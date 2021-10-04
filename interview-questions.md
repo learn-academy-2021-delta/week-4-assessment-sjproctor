@@ -9,7 +9,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: Used for passing data from parent to child component, unidirectional, read-only
 
 
 
@@ -17,7 +17,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: Listening for changes from user interactions, code in responses to the changes
 
 
 
@@ -25,7 +25,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: OOP - Thinking about your code in terms of classes/object. Functional - Thinking of your code in terms of functions, input/output. Different ways to think about your code. Functional - chained functions can be challenging. OOP - a lot of front loaded work and code to get a small result
 
 
 
@@ -33,7 +33,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: Floats are partial numbers, integers are whole numbers, each are their own class
 
 
 
@@ -41,18 +41,18 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: Ruby will return the last line of the method if the keyword return is not used
 
 
 
 ## Looking Ahead: Terms for Next Week
 
-1. Instance Variable:
+1. Instance Variable: Value in a key value pair in an object, variable that belongs to an object/class
 
-2. PostgreSQL:
+2. PostgreSQL: Open source database management system
 
-3. Ruby on Rails:
+3. Ruby on Rails: Open source framework that allows dev to build web apps in the Ruby programming language
 
-4. ORM:
+4. ORM: Object relational mapping, translates data between two incompatible object oriented languages
 
-5. Active Record:
+5. Active Record: ORM, layer that translates code between Rails/Ruby and database
